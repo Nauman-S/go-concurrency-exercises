@@ -38,3 +38,5 @@ The Go community has plenty resources to read about go's concurrency model and h
 
   0. You just DO WHAT THE FUCK YOU WANT TO.
 ```
+
+Just my solutions to these exercises
